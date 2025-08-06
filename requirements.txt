@@ -1,8 +1,0 @@
-streamlit
-pandas
-matplotlib.pyplot
-seaborn
-pybaseball
-sklearn.model_selection
-sklearn.ensemble
-sklearn.metrics 
